@@ -1,2 +1,2 @@
 # FMinstGAN
-cGAN for generating clove images trained on the Fashion-MNITS dataset
+cGAN for generating clothes images trained on the Fashion-MNITS dataset
